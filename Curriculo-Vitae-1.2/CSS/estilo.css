@@ -1,0 +1,30 @@
+#nome{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 40px;
+}
+.titulo{
+    font-style: oblique;
+    font-weight: 200;
+    text-decoration: underline;
+}
+.lista{
+    font-style: italic;
+    font-size:medium;
+    font-weight: 600;
+}
+.fundo{
+    background-color: #d7c8ee;
+}
+body{
+    background-image: url(../Imagens/BGcoelho.jpg);
+    background-size: 20%;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+}
+.foto{
+    float: left;
+    width: 5%;
+    margin-right: 40px;
+}
