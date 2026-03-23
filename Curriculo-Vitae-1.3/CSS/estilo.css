@@ -13,13 +13,14 @@
     font-size:medium;
     font-weight: 600;
 }
-.fundo{
-    background-color: #8ca4b3;
-}
 .foto{
     float: left;
     width: 10%;
     margin-right: 40px;
+}
+body{
+    margin: 0;
+    background-color: #8ca4b3;
 }
 .cabecalho{
     height: 100px;
@@ -52,4 +53,9 @@ article a{
 }
 article a:hover{
     background-color: #8ca4b3;
+}
+footer{
+    padding: 10px;
+    background-color: #abdfff;
+    border-radius: 10px;
 }
