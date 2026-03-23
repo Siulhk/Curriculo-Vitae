@@ -58,4 +58,7 @@ footer{
     padding: 10px;
     background-color: #abdfff;
     border-radius: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;
 }
