@@ -18,7 +18,7 @@ html{
 }
 .foto{
     float: left;
-    width: 10%;
+    width: 10vw;
     margin-right: 4em;
 }
 body{
@@ -26,7 +26,7 @@ body{
     background-color: #8ca4b3;
 }
 .cabecalho{
-    height: 100px;
+    height: 10vh;
     background-image: url(../Imagens/BGcoelho.jpg);
     background-size: cover;
     background-position: right center;
@@ -36,9 +36,9 @@ body{
     text-shadow: 0.2em 0.2em 0.4em rgb(61, 91, 148);
 }
 article{
-    width: 80%;
+    width: 80vw;
     margin: auto;
-    max-width: 86em;
+    max-width: 86vw;
 background-color: white;
     border-radius: 8px;
     padding: 16px;
