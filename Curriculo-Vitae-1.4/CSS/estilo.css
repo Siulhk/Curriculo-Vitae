@@ -1,0 +1,67 @@
+html{
+    font-size: 62.5%;
+}
+#nome{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 4em;
+}
+.titulo{
+    font-style: oblique;
+    font-weight: 200;
+    text-decoration: underline;
+}
+.lista{
+    font-style: italic;
+    font-size:medium;
+    font-weight: 600;
+}
+.foto{
+    float: left;
+    width: 10%;
+    margin-right: 4em;
+}
+body{
+    margin: 0;
+    background-color: #8ca4b3;
+}
+.cabecalho{
+    height: 100px;
+    background-image: url(../Imagens/BGcoelho.jpg);
+    background-size: cover;
+    background-position: right center;
+    padding-top: 0.1em;
+}
+.cabecalho h1{
+    text-shadow: 0.2em 0.2em 0.4em rgb(61, 91, 148);
+}
+article{
+    width: 80%;
+    margin: auto;
+    max-width: 86em;
+background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+article h2{
+    border-bottom: 2px solid #ccc;
+    background-color: #eee;
+    padding: 1em;
+    margin-top: 0em;
+}
+article a{
+    text-transform: uppercase;
+}
+article a:hover{
+    background-color: #8ca4b3;
+}
+footer{
+    padding: 1em;
+    background-color: #abdfff;
+    border-radius: 1em;
+    text-align: center;
+    text-shadow: 0.2em 0.2em 0.2em black;
+    letter-spacing: 0.2em;
+}
